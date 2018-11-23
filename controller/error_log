@@ -1,0 +1,9 @@
+[16-Oct-2018 02:04:27 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 104858029 bytes) in /home/servelo/public_html/subdomains/drev/model/Conn/Create.class.php on line 104
+[16-Oct-2018 02:06:17 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 104858029 bytes) in /home/servelo/public_html/subdomains/drev/model/Conn/Create.class.php on line 104
+[16-Oct-2018 02:08:09 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 104858070 bytes) in /home/servelo/public_html/subdomains/drev/model/Conn/Create.class.php on line 104
+[16-Oct-2018 02:08:34 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 104858070 bytes) in /home/servelo/public_html/subdomains/drev/model/Conn/Create.class.php on line 104
+[16-Oct-2018 02:22:32 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/servelo/public_html/subdomains/drev/controller/Login.ajax.php on line 726
+[18-Oct-2018 01:28:59 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/servelo/public_html/subdomains/drev/controller/Login.ajax.php on line 566
+[18-Oct-2018 01:41:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/servelo/public_html/subdomains/drev/controller/Login.ajax.php on line 488
+[18-Oct-2018 01:41:53 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/servelo/public_html/subdomains/drev/controller/Login.ajax.php on line 488
+[18-Oct-2018 02:02:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/servelo/public_html/subdomains/drev/controller/Login.ajax.php on line 760
