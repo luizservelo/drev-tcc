@@ -1,5 +1,7 @@
 # DREV - DRE Viewer 
-Luiz Servelo
+Luiz Servelo, Deborah Ribeiro Carvalho
+
+Download do sistema: https://github.com/luizservelo/drev-tcc/archive/master.zip
 
 O sistema está feito em PHP, HTML, CSS e JavaScript.
 
